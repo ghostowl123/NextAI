@@ -1,2 +1,2 @@
 # NextAI
-This is personal project. you can use as a reference
+This is a personal project for learning purposes. 
